@@ -1,3 +1,3 @@
 # odin-recipes
 
-This project includes showing of different recipes using basic html only.
+Showcase of variety of recipes using HTML only.
