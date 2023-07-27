@@ -16,6 +16,8 @@ div {
   outline-style: dashed;
   outline-color: rgba(122, 15, 122, 0.533);
   font-size: 40px;
+  display: inline-block;
+  padding: 5px;
 }
 
 a:link {
@@ -26,4 +28,28 @@ a:visited {
 }
 a:hover {
   color: red;
+}
+
+.header {
+  background-color: #cac7c7d7;
+  text-align: center;
+  padding: 10px;
+}
+
+.img {
+  border-top-left-radius: #f9f99222;
+  border-style: dashed;
+}
+
+.pageContent {
+  text-align: center;
+}
+
+.myUL {
+  display: inline-block;
+  text-align: left;
+}
+.myOL {
+  display: inline-block;
+  text-align: left;
 }
